@@ -2,7 +2,7 @@
 'use strict'
 
 var chai = require('chai');
-var assert = chai.assert;//chai.expect;//chai.should; //chai.assert;
+var assert = chai.assert;//chai.expect;//chai.should; ;
 
 var myApp = require('../app/library.js');
 describe("Test for proper divisibility of number", function() {
